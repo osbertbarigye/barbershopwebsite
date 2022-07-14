@@ -1,0 +1,28 @@
+.main-header {
+  background: url(../img/background.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 600px;
+  color: #fff;
+
+}
+
+
+.main-header .showcase {
+  padding-top: 50px;
+}
+
+.active-link {
+  color: #d847f1;
+  font-weight: bold;
+  font-size:18px;
+} 
+.active-links {
+  color: #d847f1;
+} 
+.signature{
+  font-weight: bold;
+}
+.services{
+  font-size: 20px;
+}
